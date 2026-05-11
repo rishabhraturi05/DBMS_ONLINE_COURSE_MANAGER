@@ -39,9 +39,7 @@ CREATE TABLE Module(
     FOREIGN KEY (Course_Id) REFERENCES Course(Course_Id)
 );
 
--- =====================================================
 -- ASSIGNMENT TABLE
--- =====================================================
 
 CREATE TABLE Assignment(
     Assignment_Id INT,
