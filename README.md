@@ -88,7 +88,6 @@ Online-Course-Management-System/
 ├── Queries.sql
 ├── PL_SQL.sql
 ├── ER_Diagram.png
-└── screenshots/
 ```
 
 ---
