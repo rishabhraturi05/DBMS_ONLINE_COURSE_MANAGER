@@ -82,7 +82,7 @@ ER_Diagram.png
 
 ```text
 Online-Course-Management-System/
-│
+├── tables.sql
 ├── README.md
 ├── sample_data.sql
 ├── Queries.sql
